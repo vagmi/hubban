@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "pass",
+    "host": "localhost",
+    "port": 5433,
+    "database": "hubban_dev"
+  }
+}
